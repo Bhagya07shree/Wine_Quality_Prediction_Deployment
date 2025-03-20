@@ -1,4 +1,5 @@
-# 🍷 Wine Quality Prediction Deployment
+
+                                                                  # 🍷 Wine Quality Prediction Deployment
 
 # 📌 Overview
 
@@ -33,6 +34,8 @@ scikit-learn 🔥 (Model Training)
 🎯 How to Use
 
 # Run the Flask API (app.py) to serve predictions.
+
+Run the Flask API (app.py) to serve predictions.
 
 Open Streamlit UI (app_streamlit.py).
 
